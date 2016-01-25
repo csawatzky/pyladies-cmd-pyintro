@@ -58,14 +58,14 @@ Hello, world!
 
 Python is strongly typed language, meaning it can change one type of value into another if there exist certain rules of conversions between the kinds of values, but if they are none, that would generate an error.
 
-For example Python knows how to generate integer into a decimal number
+For example Python knows how to convert an integer into a decimal number
 
 ```python
 >>> 20 + 33.3
 53.3
 ```
 
-But if you want to combine integer and a string, this would fail
+But combining an integer and a string  would fail
 
 ```python
 >>> "The number is: " + 55
