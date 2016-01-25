@@ -1,4 +1,4 @@
-Debugging, working with datetime, classes
+Debugging, working with datetime
 ======
 
 The examples used so far are easy to try out, but it is not possible to save the work for later.
@@ -91,3 +91,7 @@ Other then running debugger commands, list what line is currently executing by t
 **Exercise:** See the documentation for [datetime.timedelta](https://docs.python.org/2/library/datetime.html#datetime.timedelta) to figure out how to extract seconds from timedelta. Then print out the number of seconds as a part of "Seconds since midnight" string with your favorite string formatting method.
 
 **Exercise:** display seconds as an integer and not floating point number. How would you do conversion?
+
+|Previous|
+|--------|
+|[Python REPL, basic types, binary](0001_repl_basic_types_binary.md)|

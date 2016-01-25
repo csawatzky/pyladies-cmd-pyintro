@@ -141,3 +141,7 @@ Characters are just numbers with special meaning see [ASCII table](http://www.as
 
 Floating point numbers as everything is encoded in binary using IEEE754 standard, but actually showing that is somewhat more involved, you could try [IEEE 756 Converter](http://www.h-schmidt.net/FloatConverter/IEEE754.html)
 
+|Next|
+|--------|
+|[Debugging, working with datetime](0002_debugging_datetime_classes_strings.md)|
+
