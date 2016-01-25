@@ -63,7 +63,7 @@ There's problem mashing a `datetime.timedelta` object with a string, first thing
 # Debugging
 
 An easier solution is to use [python debugger -- pdb](https://docs.python.org/2/library/pdb.html). Basically it gives us python REPL with all of the variables already loaded, so we can try and determine what is about to go wrong with the program.
-After reading the error message, we know that the program is going to crash on line ` N  ` with the error message `  `. So on the line ` N - 1 ` we're gonna add this statement that imports debugger module and activates the debugger
+After reading the error message, we know that the program is going to crash on line 8 with the error message `TypeError: cannot concatenate 'str' and 'datetime.timedelta' objects`. So on the line 7 we're gonna add this statement that imports debugger module and activates the debugger
 
 ```python
 import pdb; pdb.set_trace()
