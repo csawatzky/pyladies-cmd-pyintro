@@ -73,7 +73,7 @@ There are few commands available like `n` - execute next line, `c` - continue ru
 
 **Exercise:** try these commands, as they promptly crash the program.
 
-This investigating technique is effective when program doesn't crash and you're just looking for the code looking where things might have gone wrong, in this case, we can use post-mortem debugger, where you don't need to modify any source code as the debugger gets loaded after program crashes
+This investigating technique is effective when program doesn't crash and you're just  looking where things might have gone wrong, in this case, we can use post-mortem debugger, where you don't need to modify any source code as the debugger gets loaded after program crashes
 
 
 ```
