@@ -1,18 +1,14 @@
 Pyladies Command Line Basics & Python Tutorial
 =======
 
+# Prerequisites
+
+1. [Python 2.7 install](shell_tutorial/0006_install_python.md)
+2. [Notepad++ install](shell_tutorial/0007_install_notepadpp.md)
+
 
 # Command line Basics
 
-Tools to use:
-
-* command prompt
-* power shell
-* Notepad++
-* python 2.7
-
-
-### Table of Contents
 
 1. [Intro](shell_tutorial/0001_intro.md)
 2. [Filesystem Navigation](shell_tutorial/0002_filesystem_navigation.md)
@@ -20,11 +16,6 @@ Tools to use:
 4. [Files](shell_tutorial/0004_files.md)
 5. [More Stuff](shell_tutorial/0005_more_stuff.md)
 
-
-# Prerequisites
-
-* [Python 2.7 install](shell_tutorial/0006_install_python.md)
-* [Notepad++ install](shell_tutorial/0007_install_notepadpp.md)
 
 
 # Python Intro
@@ -47,7 +38,7 @@ Coder's club -- Writing games in python by Mike Fletcher.
 
 http://cc.vrplumber.com/index.html
 
-Learn Python The Hard Way -- a no-gimmick way of learning a language, that also teaches the fundamental concepts of computer science.
+Learn Python The Hard Way --  a book that provides an a no-gimmick way of learning a language,  that also explains  fundamental concepts of computer science.
 
 http://learnpythonthehardway.org/book/ex0.html
 

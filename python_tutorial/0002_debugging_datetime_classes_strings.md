@@ -92,6 +92,7 @@ Other then running debugger commands, list what line is currently executing by t
 
 **Exercise:** display seconds as an integer and not floating point number. How would you do conversion?
 
+
 |Previous|
 |--------|
 |[Python REPL, basic types, binary](0001_repl_basic_types_binary.md)|

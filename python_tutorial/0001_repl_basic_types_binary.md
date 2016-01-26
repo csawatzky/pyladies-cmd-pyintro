@@ -135,7 +135,23 @@ The function 'chr' does the opposite and converts integers into characters
 'H'
 ```
 
-**Exercise:** Verify that you converted all the values of the word 'Hello' correctly by
+**Exercise:**
+
+Convert your name to ascii numbers
+
+```python
+my_name = ''
+for letter in myname:
+    print() #Convert letters to ascii code inside print function
+```
+
+Take the resulting numbers, put them into a  list like this `[1, 2, 3, 4, 5]
+
+```python
+ascii_name = []
+for code in ascii_name:
+    print(, end="") # convert ascii code to letter before comma
+```
 
 Characters are just numbers with special meaning see [ASCII table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart), through useful at one point ascii encoding has sever limitation of only supporting English language, to address the limitation Unicode was created, but it is much more complicated
 
