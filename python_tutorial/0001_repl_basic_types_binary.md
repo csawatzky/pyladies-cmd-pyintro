@@ -98,7 +98,7 @@ You need to follow one of the conversion rules:
 'The number is 55'
 ```
 
-These basic types are building blocs to more complicated structures used in programming, but these types themselves are just different representations of numbers in binary system, you can see any value represented in binary by passing it to this method `"{0:b}".format(55)`
+These basic types are building blocks to more complicated structures used in programming, but these types themselves are just different representations of numbers in binary system. You can see any value represented in binary by passing it to this method `"{0:b}".format(55)`
 
 ```python
 >>> "{0:b}".format(0)
@@ -141,7 +141,7 @@ Convert your name to ascii numbers
 
 ```python
 my_name = ''
-for letter in myname:
+for letter in my_name:
     print() #Convert letters to ascii code inside print function
 ```
 
@@ -150,7 +150,7 @@ Take the resulting numbers, put them into a  list like this `[1, 2, 3, 4, 5]
 ```python
 ascii_name = []
 for code in ascii_name:
-    print(, end="") # convert ascii code to letter before comma
+    print(,) # convert ascii code to letter before comma
 ```
 
 Characters are just numbers with special meaning see [ASCII table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart), through useful at one point ascii encoding has sever limitation of only supporting English language, to address the limitation Unicode was created, but it is much more complicated

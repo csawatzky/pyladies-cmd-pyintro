@@ -22,11 +22,11 @@ We're going to use python datetime standard module, meaning whenever python is i
 
 # The Code
 
-Create a new file by pressin Ctrl+N, then go to File -> Save As...
+Create a new file by pressing Ctrl+N, then go to File -> Save As...
 
 ![Navigate in Notepad++](screenshots/0003_save_as.png)
 
-Go ptyho_tutorial directory on Desktop and set the filename to `seconds_since_midnight.py`.
+Go python_tutorial directory on Desktop and set the filename to `seconds_since_midnight.py`.
 
 ![Save dialog](screenshots/0004_save_dialog.png)
 
