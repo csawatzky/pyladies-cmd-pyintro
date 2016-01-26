@@ -137,7 +137,7 @@ The function 'chr' does the opposite and converts integers into characters
 
 **Exercise:** Verify that you converted all the values of the word 'Hello' correctly by
 
-Characters are just numbers with special meaning see [ASCII table](http://www.asciitable.com/), through useful at one point ascii encoding has sever limitation of only supporting English language, to address the limitation Unicode was created, but it is much more complicated
+Characters are just numbers with special meaning see [ASCII table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart), through useful at one point ascii encoding has sever limitation of only supporting English language, to address the limitation Unicode was created, but it is much more complicated
 
 Floating point numbers as everything is encoded in binary using IEEE754 standard, but actually showing that is somewhat more involved, you could try [IEEE 756 Converter](http://www.h-schmidt.net/FloatConverter/IEEE754.html)
 
